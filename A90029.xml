@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New treason plotted in France being, the project of Finch and Windebanke, who had fled from England and were resident in France, and had now conspired the death of the King of France, and Cardinall Richlieu, together with the discovery of this intended treason, and their flight into Denmarke. Also their intent to being some French power and forces against England. Likewise a letter sent from the councell of Scotland, to the House of Commons, June 20. concerning the Earl of Antrim, with the Parliaments order and answer to the Scots concerning the said Earl of Antrim. Together with the resolution of both Houses concerning the kings last writ. H. Elsing. Cler. Parl.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90029</idno><idno type="EEBO-CITATION">99871543</idno>
+  <idno type="VID">156806</idno>
+  <idno type="EEBO-PROQUEST">2240929076</idno>
+  
+            <idno type="STC">Wing N787</idno>
+            <idno type="STC">Thomason E153_19</idno>
+            <idno type="STC">ESTC R21935</idno>
+            <idno type="PROQUEST">99871543</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871543e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156806)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E153[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New treason plotted in France being, the project of Finch and Windebanke, who had fled from England and were resident in France, and had now conspired the death of the King of France, and Cardinall Richlieu, together with the discovery of this intended treason, and their flight into Denmarke. Also their intent to being some French power and forces against England. Likewise a letter sent from the councell of Scotland, to the House of Commons, June 20. concerning the Earl of Antrim, with the Parliaments order and answer to the Scots concerning the said Earl of Antrim. Together with the resolution of both Houses concerning the kings last writ. H. Elsing. Cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Iune 25 Printed for I. Tompson and A. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Louis, --  King of France, 1601-1643 --  Early works to 1800.</term>
+               <term type="personal_name">Antrim, Randal MacDonnell, --  Earl of, 1609-1683 --  Early works to 1800.</term>
+               <term type="personal_name">Richelieu, Armand Jean du Plessis, --  duc de, 1585-1642 --  Early works to 1800.</term>
+               <term type="personal_name">Windebank, Francis, --  Sir, 1582-1646 --  Early works to 1800.</term>
+               <term type="personal_name">Finch of Fordwich, John Finch, --  Baron, 1584-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Louis XIII, 1610-1643 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156806:1"/>
+            <pb facs="tcp:156806:1"/>
+            <p>NEW TREASON PLOTTED IN FRANCE BEING, The Project of <hi>Finch</hi> and <hi>Windebanke,</hi> who had fled from <hi>England</hi> and were resident in <hi>France,</hi> and had now conspired the death of the King of <hi>France,</hi> and Cardinall <hi>Richlieu,</hi> together with the Discove<g ref="char:EOLhyphen"/>ry of this intended Treason, and their flight into <hi>Denmarke.</hi>
+            </p>
+            <p>Also their Intent to bring some <hi>French</hi> Power and Forces against <hi>ENGLAND.</hi>
+            </p>
+            <p>Likewise a Letter sent from the Councell of <hi>Scotland,</hi> to the House of Commons, June 20. concerning the Earl of <hi>Antrim,</hi> with the Parliaments Order and Answer to the Scots concerning the said Earl of <hi>ANTRIM.</hi>
+            </p>
+            <p>
+               <hi>Together with the Resolution of both Houses concer<g ref="char:EOLhyphen"/>ning the Kings last Writ.</hi>
+            </p>
+            <p>H. Elsing. Cler. Parl.</p>
+            <p>
+               <hi>Iune</hi> 25 Printed for <hi>I. Tompson</hi> and <hi>A. Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156806:2"/>
+            <pb facs="tcp:156806:2"/>
+            <head>NEVV TREASON Plotted in FRANCE.</head>
+            <p>THe fear of the Justice of the Law whose Tryall many durst not stand, made <hi>Finch</hi> and <hi>Winde<g ref="char:EOLhyphen"/>bank</hi> fly, when they saw their Plots and Counsels took no successe, providing for their own security by flight, and rather cozen the Law, by their heels then their wits, which had bin long hatching.</p>
+            <p>From Justice and this Kingdome they fled into <hi>France,</hi> and this have for a long space token sanctuary, and beene secure from the deserved censure and punish<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And now observe how this wicked
+<pb facs="tcp:156806:3"/> minded persons do still prosecute, that in-bred and naturall desire of mischief, which they alwayes affected.</p>
+            <p>For now, even against that place, and those persons who were the Authors and means of their preservation and being; these persons had conspired Ruine and Destruction.</p>
+            <p>Like the ingratefull Viper, who being almost starved with cold, found from the Husbandman Charity and warmth, and was preserved from Death, which at the last turned his sting to wound that brest which had bin his defence from Death and Calamity.</p>
+            <p>This <hi>Finch</hi> and <hi>Windebank</hi> not consi<g ref="char:EOLhyphen"/>dering the great benefit and advantage they had received by the Court of <hi>France</hi> had conspired to take away the life of the King of <hi>France,</hi> and <hi>Cardinall Richlieu</hi> whom they could by no means indure to comply with their Conspiracies and trecheries.</p>
+            <p>Having thus plott<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Ruine and Death of these members, Had their ayms
+<pb facs="tcp:156806:3"/> bin succesfull, they knew they could not long want encouragement and assistance for further mischief; neither did their Designs desist here for having thus mur<g ref="char:EOLhyphen"/>dred the King and the Cardinals, if any Protestants could have bin found, they must have bin the subjects of their next cruelty, and have made the next Trage<g ref="char:EOLhyphen"/>dy.</p>
+            <p>These things being dispatched, they then would have addressed themselves against this Kingdom, and would have endeavoured to have brought those plots, and designs to passe, which by reason of the most fortunate Discovery they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re enforced to leave unfinished, and save themselves by flight.</p>
+            <p>Thus had these Divellish minds plot<g ref="char:EOLhyphen"/>ted at once the Ruine and Destruction of two great Kingdoms, but this Plot a<g ref="char:EOLhyphen"/>gainst <hi>France</hi> like the former against <hi>England,</hi> were discovered and brought to light, and before this conceived issue could attain maturity, and perfection, like an Abortive it did miscarry, and the
+<pb facs="tcp:156806:4"/> Actors themselves, and the Complotters were forced to leave their former San<g ref="char:EOLhyphen"/>ctuary of <hi>France,</hi> and to secure themselves under the Covert and Protection of <hi>Den<g ref="char:EOLhyphen"/>marke,</hi> where as men contemned and scor<g ref="char:EOLhyphen"/>ned for their villanies they do remain.</p>
+            <div type="part">
+               <head>I.</head>
+               <p>The countenance and protection which hath bin offered to many great and dan<g ref="char:EOLhyphen"/>gerous Delinquents of such as have adhe<g ref="char:EOLhyphen"/>red to them, and the Displeasures shew<g ref="char:EOLhyphen"/>ed against those who have bin used and employed as Witnesses in the Tryall and persecution of them.</p>
+               <p>
+                  <hi>Both Houses of Parliament hath took into their se<g ref="char:EOLhyphen"/>rious consideration the Occasion and Reason why the Members of the said Houses should absent themselves upon their summoning in, Wherupon they hath drawn up a Charge against them, and are resolv'd that they shall pay 100. l. a man, and to be examined by the Com<g ref="char:EOLhyphen"/>mittee before the next sitting.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license" subtype="order_to_print">
+                           <p>
+                              <hi>Ordered by the Lords and Commons in Parliament, that this be printed and publi<g ref="char:EOLhyphen"/>shed.</hi>
+                           </p>
+                           <closer>
+                              <signed>John Brown Cler Parl. Hen. Elsing Cler. Parl. D. Com.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:156806:4"/>
+            <head>Good News from Ireland.</head>
+            <p>The Rebels have had a long power over the distressed Protestants, and have dispossessed many thousands of them, both of their meanes liberties, nay of their lives, liberties also.</p>
+            <p>Yet it hath at the last pleased Almighty God to pitty the afflictions of that Nation, and to give them the upper hand of their Per<g ref="char:EOLhyphen"/>secutors.</p>
+            <p>Upon the <hi>20.</hi> of June Letters were read in the House of Commons, which came from Jreland, the Contents and matter wherof were that the Protestants had besieged many Castles wherin the Rebels had great strength, and of the slaughtering of great Multitudes of Re<g ref="char:EOLhyphen"/>bels, and also that there was found in one of the Castles, which the Protestants had taken <hi>20000. l.</hi> which with the Castle they tooke from the Rebels, and that they have taken an Iland which the Rebels had of almost an in<g ref="char:EOLhyphen"/>vincible strength.</p>
+            <p>Neither doth our joy and their happpinesse stay here, but wee may go yet one step fur<g ref="char:EOLhyphen"/>ther.</p>
+            <pb facs="tcp:156806:5"/>
+            <p>For upon the <hi>20.</hi> of June Letters came to the House of Commons from Scotland, infor<g ref="char:EOLhyphen"/>ming of them, that the Earl of <hi>Antrim</hi> one of the main Agents in this Bloudy and Re<g ref="char:EOLhyphen"/>bellious Persecution, is taken prisoner by the Scottish forces there; Whereupon after some Debate among themselves in the House of Commons, it was Ordered, that the said Earle of <hi>Antrim</hi> be safely kept in some strong hold under the Custody of the Scottish Forces, un<g ref="char:EOLhyphen"/>till the House of Parliament shall upon ma<g ref="char:EOLhyphen"/>ture Consideration give further Order.</p>
+            <closer>
+               <signed>Hen. Elsing Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
